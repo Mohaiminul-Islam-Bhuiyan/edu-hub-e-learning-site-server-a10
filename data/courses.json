@@ -1,0 +1,56 @@
+[
+    {
+      "id": "6357ea88a62519ab16f812c7",
+      "fee": "$99.99",
+      "picture": "../assets/AI.jpg",
+      "duration": 4,
+      "name": "Artificial Intelligence",
+      "instructor": "Williamson Ball",
+      "about": "Artificial intelligence is defined as:Â The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages. Essentially, artificial intelligence is a technology that shows some sign of intelligence by completing a task or a multitude of tasks that generally require human intervention. In terms of the investing community, artificial intelligence is known for finding buying or selling signals in the market, researching market data, and more. Join this course and make your future better."
+    },
+    {
+      "id": "6357ea8830d1ac5b12250ff8",
+      "fee": "$99.99",
+      "picture": "../assets/ML.jpg",
+      "duration": 3,
+      "name": "Machine Learning",
+      "instructor": "Latonya Frank",
+      "about": "Machine learning is an important component of the growing field of data science. Through the use of statistical methods, algorithms are trained to make classifications or predictions, and to uncover key insights in data mining projects. These insights subsequently drive decision making within applications and businesses, ideally impacting key growth metrics. As big data continues to expand and grow, the market demand for data scientists will increase. They will be required to help identify the most relevant business questions and the data to answer them. Join this course and make your future better."
+    },
+    {
+      "id": "6357ea888b4c440771043cce",
+      "fee": "$99.99",
+      "picture": "../assets/DL.jpg",
+      "duration": 5,
+      "name": "Deep Learning",
+      "instructor": "Esperanza Roberson",
+      "about": "Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised. Deep-learning architectures such as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks, convolutional neural networks and Transformers have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance. Join this course and make your future better."
+    },
+    {
+      "id": "6357ea88bbb82bf38f7353ff",
+      "fee": "$99.99",
+      "picture": "../assets/blockChain.jpg",
+      "duration": 4,
+      "name": "Blockchain Tachnology",
+      "instructor": "Gillespie Copeland",
+      "about": "A blockchain is a type of distributed ledger technology (DLT) that consists of growing list of records, called blocks, that are securely linked together using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves). The timestamp proves that the transaction data existed when the block was created. Since each block contains information about the previous block, they effectively form a chain (compare linked list data structure), with each additional block linking to the ones before it. Consequently, blockchain transactions are irreversible in that, once they are recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks. Join this course and make your future better."
+    },
+    {
+      "id": "6357ea88d442b78ec6d1cb4d",
+      "fee": "$99.99",
+      "picture": "../assets/cryptoTrading.png",
+      "duration": 3,
+      "name": "Crypto Trading",
+      "instructor": "Riggs Carter",
+      "about": "Cryptocurrency trading means taking a financial position on the price direction of individual cryptocurrencies against the dollar (in crypto/dollar pairs) or against another crypto, via crypto to crypto pairs. CFDs (contracts for difference) are a particularly popular way to trade cryptocurrencies as they allow for greater flexibility, the use of leverage and the ability to take short as well as long positions. Join this course and make your future better."
+    },
+    {
+      "id": "6357ea88554b79171c31f721",
+      "fee": "$99.99",
+      "picture": "../assets/NFT.jpg",
+      "duration": 6,
+      "name": "NFT",
+      "instructor": "Alta Mclaughlin",
+      "about": "NFTs (non-fungible tokens) are unique cryptographic tokens that exist on a blockchain and cannot be replicated. NFTs can represent real-world items like artwork and real estate.'Tokenizing' these real-world tangible assets makes buying, selling, and trading them more efficient while reducing the probability of fraud. NFTs can also function to represent individuals' identities, property rights, and more. Collectors have sought NFTs as their value initially soared, but has since moderated. Join this course and make your future better."
+    }
+  ]
