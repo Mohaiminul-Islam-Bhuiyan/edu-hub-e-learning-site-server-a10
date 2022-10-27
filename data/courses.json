@@ -2,7 +2,7 @@
     {
       "id": "1",
       "fee": "$99.99",
-      "picture": "https://ibb.co/H446yK6",
+      "picture": "https://i.ibb.co/Ypnf5pP/AI.jpg",
       "duration": 4,
       "name": "Artificial Intelligence",
       "instructor": "Williamson Ball",
@@ -11,7 +11,7 @@
     {
       "id": "2",
       "fee": "$99.99",
-      "picture": "https://ibb.co/j3GCwc1",
+      "picture": "https://i.ibb.co/Gt4NZFk/ML.jpg",
       "duration": 3,
       "name": "Machine Learning",
       "instructor": "Latonya Frank",
@@ -20,7 +20,7 @@
     {
       "id": "3",
       "fee": "$99.99",
-      "picture": "https://ibb.co/GxPhR09",
+      "picture": "https://i.ibb.co/YyrVsM4/DL.jpg",
       "duration": 5,
       "name": "Deep Learning",
       "instructor": "Esperanza Roberson",
@@ -29,7 +29,7 @@
     {
       "id": "4",
       "fee": "$99.99",
-      "picture": "https://ibb.co/9whwCWs",
+      "picture": "https://i.ibb.co/NSKj3WQ/block-Chain.jpg",
       "duration": 4,
       "name": "Blockchain Tachnology",
       "instructor": "Gillespie Copeland",
@@ -38,7 +38,7 @@
     {
       "id": "5",
       "fee": "$99.99",
-      "picture": "https://ibb.co/3y86y9r",
+      "picture": "https://i.ibb.co/rtXjm8y/crypto-Trading.png",
       "duration": 3,
       "name": "Crypto Trading",
       "instructor": "Riggs Carter",
@@ -47,7 +47,7 @@
     {
       "id": "6",
       "fee": "$99.99",
-      "picture": "https://ibb.co/FkTT2b4",
+      "picture": "https://i.ibb.co/hyhxzNr/NFT.jpg",
       "duration": 6,
       "name": "NFT",
       "instructor": "Alta Mclaughlin",
